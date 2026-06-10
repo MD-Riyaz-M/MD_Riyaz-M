@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Mohammed Riyaz M
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Riyaz%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React.js%20%26%20Java%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 ## 🚀 About Me
 

@@ -104,30 +104,6 @@ const mohammedRiyaz = {
 
 ---
 
-### 🏠 Home Automation System
-
-**Tech Stack:** ESP8266, IoT, WiFi
-
-* Smart appliance control through smartphone
-* Real-time communication using ESP8266
-* Remote switching of lights and fans
-
-🔗 Repository: https://github.com/dev-riyaz/home-automation
-
----
-
-### 🚗 Vehicle Accident Alert System
-
-**Tech Stack:** IoT, Sensors
-
-* Real-time accident detection
-* Automated emergency notifications
-* Improved road safety through alert systems
-
-🔗 Repository: https://github.com/dev-riyaz/vehicle-accident-alert
-
----
-
 ## 💼 Experience
 
 ### Full Stack Development Trainee | Infycle Technologies (2024)
